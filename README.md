@@ -1,7 +1,16 @@
 # Portfolio
 
 ## Sentiment Analysis of Killing Eve TV Series
-Tools: beautifulsoup, selenium, pandas, nltk, plotly, TextBlob
+Tools: beautifulsoup, selenium, pandas, nltk, plotly, scikit-learn
+
+Performed web scraping to extract reviews of popular tv series to predict their polarity using lexicon-based approaches (TextBlob, VADER) and machine learning classifiers such as Naive Bayes, SVM, and Logistic Regression while dealing with imbalanced data. 
+
+filename | description
+------------ | -------------
+[WebScrapingIMDBReviews.py](WebScrapingIMDBReviews.py)| Used selenium and beautifulsoup to extract reviews from IMDB website. 
+[RottenTomatoesAudienceReviews.py](RottenTomatoesAudienceReviews.py)| Scraped audience reviews from RottenTomatoes website by using selenium and beautifulsoup. 
+[RottenTomatoesCriticsReviews.py](RottenTomatoesCriticsReviews.py) | Extracted reviews from critics from RottenTomatoes with use of beautifulsoup and requests library. 
+
 
 ## Word Frequency in Star Wars Movies 
 
