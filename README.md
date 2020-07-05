@@ -27,4 +27,4 @@ filename | description
 ## Baltimore Crime Analysis 
 Tools: plotly, pandas
 
-## Medical Personal Cost  :stethoscope:
+## Medical Personal Cost  :hospital:
