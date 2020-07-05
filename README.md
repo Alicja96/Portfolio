@@ -24,5 +24,7 @@ filename | description
 [WordFrequencyStarWars.ipnyb](WordFrequencyStarWars.ipynb) | Contains analysis of the distribution of words in Star Wars movie transcripts with the use of Natural Language ToolKit(nltk).
 
 
-Baltimore Crime Analysis 
+## Baltimore Crime Analysis 
 Tools: plotly, pandas
+
+## Medical Personal Cost
