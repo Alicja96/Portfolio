@@ -22,3 +22,7 @@ filename | description
 ------------ | -------------
 [WebScrapingTranscripts.py](WebScrapingTranscripts.py) | Used beautifulsoup and requests library to extract transcripts of Star Wars movies. 
 [WordFrequencyStarWars.ipnyb](WordFrequencyStarWars.ipynb) | Contains analysis of the distribution of words in Star Wars movie transcripts with the use of Natural Language ToolKit(nltk).
+
+
+Baltimore Crime Analysis 
+Tools: plotly, pandas
