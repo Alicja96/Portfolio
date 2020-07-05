@@ -23,6 +23,17 @@ filename | description
 [WebScrapingTranscripts.py](WebScrapingTranscripts.py) | Used beautifulsoup and requests library to extract transcripts of Star Wars movies. 
 [WordFrequencyStarWars.ipnyb](WordFrequencyStarWars.ipynb) | Contains analysis of the distribution of words in Star Wars movie transcripts with the use of Natural Language ToolKit(nltk).
 
+## Cryptocurrency Price Prediction :chart_with_upwards_trend:
+
+Tools: requests, plotly, pandas
+
+
+## Medical Personal Cost  :hospital:
+
+Tools: pandas, scikit-learn
+
+In this project, I will apply regression techniques to predict medical insurance costs for individuals.
+
 
 ## Baltimore Crime Analysis :police_car:
 
@@ -39,12 +50,3 @@ In this project, I am going to explore more about crime in Baltimore and try to 
 * Which day of the week had the highest rate of committed crimes?
 * Were the majority of crimes committed outside or inside?
 
-## Medical Personal Cost  :hospital:
-
-Tools: pandas, scikit-learn
-
-In this project, I will apply regression techniques to predict medical insurance costs for individuals.
-
-## Cryptocurrency Price Prediction 
-
-Tools: requests, plotly, pandas
