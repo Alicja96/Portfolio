@@ -44,3 +44,7 @@ In this project, I am going to explore more about crime in Baltimore and try to 
 Tools: pandas, scikit-learn
 
 In this project, I will apply regression techniques to predict medical insurance costs for individuals.
+
+## Cryptocurrency Price Prediction 
+
+Tools: requests, plotly, pandas
