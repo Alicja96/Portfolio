@@ -7,10 +7,10 @@ Performed web scraping to extract reviews of popular tv series to predict their 
 
 filename | description
 ------------ | -------------
-[WebScrapingIMDBReviews.py](WebScrapingIMDBReviews.py)| Used selenium and beautifulsoup to extract reviews from IMDB website. 
-[RottenTomatoesAudienceReviews.py](RottenTomatoesAudienceReviews.py)| Scraped audience reviews from RottenTomatoes website by using selenium and beautifulsoup. 
-[RottenTomatoesCriticsReviews.py](RottenTomatoesCriticsReviews.py) | Extracted reviews from critics from RottenTomatoes with use of beautifulsoup and requests library. 
-[SentimentAnalysisKillingEve.ipynb](SentimentAnalysisKillingEve.ipynb) | Conducted data pre-processing and cleaning by removing stop words, punctuation, numbers and detected language of each review, calculated sentiment score of each review by comparing it’s tokens with positive and negative lexicon. Applied Multinomial Naive Bayes and Stochastic Gradient Descent Classifier with Tf-idfVectorizer, CountVectorizer and performed over-sampling using SMOTE. Used GridSearchCV to find the optimal parameters.
+[WebScrapingIMDBReviews.py](https://github.com/Alicja96/Sentiment-Analysis-of-Killing-Eve-TV-Series/blob/master/WebScrapingIMDBReviews.py)| Used selenium and beautifulsoup to extract reviews from IMDB website. 
+[RottenTomatoesAudienceReviews.py](https://github.com/Alicja96/Sentiment-Analysis-of-Killing-Eve-TV-Series/blob/master/RottenTomatoesAudienceReviews.py)| Scraped audience reviews from RottenTomatoes website by using selenium and beautifulsoup. 
+[RottenTomatoesCriticsReviews.py](https://github.com/Alicja96/Sentiment-Analysis-of-Killing-Eve-TV-Series/blob/master/RottenTomatoesCriticsReviews.py) | Extracted reviews from critics from RottenTomatoes with use of beautifulsoup and requests library. 
+[SentimentAnalysisKillingEve.ipynb](https://github.com/Alicja96/Sentiment-Analysis-of-Killing-Eve-TV-Series/blob/master/SentimentAnalysisKillingEve.ipynb) | Conducted data pre-processing and cleaning by removing stop words, punctuation, numbers and detected language of each review, calculated sentiment score of each review by comparing it’s tokens with positive and negative lexicon. Applied Multinomial Naive Bayes and Stochastic Gradient Descent Classifier with Tf-idfVectorizer, CountVectorizer and performed over-sampling using SMOTE. Used GridSearchCV to find the optimal parameters.
 
 
 ## [Word Frequency in Star Wars Movies :speech_balloon:](https://github.com/Alicja96/Word-Frequency-in-Star-Wars.git)
