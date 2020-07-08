@@ -21,7 +21,7 @@ filename | description
  
  filename | description
 ------------ | -------------
-[WebScrapingTranscripts.py](WebScrapingTranscripts.py) | Used beautifulsoup and requests library to extract transcripts of Star Wars movies. 
+[WebScrapingTranscripts.py](https://github.com/Alicja96/Word-Frequency-in-Star-Wars/blob/master/WebScrapingTranscripts.py) | Used beautifulsoup and requests library to extract transcripts of Star Wars movies. 
 [WordFrequencyStarWars.ipnyb](WordFrequencyStarWars.ipynb) | Contains analysis of the distribution of words in Star Wars movie transcripts with the use of Natural Language ToolKit(nltk).
 
 ## Cryptocurrency Price Prediction :chart_with_upwards_trend:
@@ -36,7 +36,7 @@ Tools: pandas, scikit-learn
 In this project, I will apply regression techniques to predict medical insurance costs for individuals.
 
 
-## Baltimore Crime Analysis :police_car:
+## [Baltimore Crime Analysis :police_car:](https://github.com/Alicja96/Baltimore-Crime-Analysis)
 
 Tools: plotly, pandas, matplotlib
 
