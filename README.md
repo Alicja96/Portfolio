@@ -33,7 +33,7 @@ Applied regression techniques to predict medical insurance costs for individuals
 
 filename | description
 ------------ | -------------
-[InsuranceCostPredictions.ipynb](https://github.com/Alicja96/Insurance-Cost-Predictions/blob/master/InsuranceCostPredictions.ipynb)| Exploratory data analysis and predictions of medical insurance costs with machine learning algorithms such as LinearRegression, PolynomialRegression, ElasticNet, RandomForestRegressor, DecisionTreeRegressor and hyperparameter tuning with GridSearchCV. 
+[InsuranceCostPredictions.ipynb](https://github.com/Alicja96/Insurance-Cost-Predictions/blob/master/InsuranceCostPredictions.ipynb)| Exploratory data analysis and predictions of medical insurance costs with machine learning algorithms such as LinearRegression, PolynomialRegression, ElasticNet, RandomForestRegressor, DecisionTreeRegressor and hyperparameter tuning. 
 
 ## [Baltimore Crime Analysis :police_car:](https://github.com/Alicja96/Baltimore-Crime-Analysis)
 
