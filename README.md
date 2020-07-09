@@ -25,12 +25,15 @@ filename | description
 [WordFrequencyStarWars.ipnyb](WordFrequencyStarWars.ipynb) | Contains analysis of the distribution of words in Star Wars movie transcripts with the use of Natural Language ToolKit(nltk).
 
 
-## Medical Personal Cost  :hospital:
+## [Insurance Cost Predictions :hospital:](https://github.com/Alicja96/Insurance-Cost-Predictions)
 
-Tools: pandas, plotly, scikit-learn
+Tools: pandas, plotly, scikit-learn, matplotlib, seaborn, yellowbrick
 
 Applied regression techniques to predict medical insurance costs for individuals and used GridSearchCV to find the optimal parameters.
 
+filename | description
+------------ | -------------
+[InsuranceCostPredictions.ipynb](https://github.com/Alicja96/Insurance-Cost-Predictions/blob/master/InsuranceCostPredictions.ipynb)| Exploratory data analysis and predictions of medical insurance costs with machine learning algorithms such as LinearRegression, PolynomialRegression, ElasticNet, RandomForestRegressor, DecisionTreeRegressor and hyperparameter tuning with GridSearchCV. 
 
 ## [Baltimore Crime Analysis :police_car:](https://github.com/Alicja96/Baltimore-Crime-Analysis)
 
