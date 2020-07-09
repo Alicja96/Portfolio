@@ -29,7 +29,7 @@ filename | description
 
 Tools: pandas, plotly, scikit-learn, matplotlib, seaborn, yellowbrick
 
-Applied regression techniques to predict medical insurance costs for individuals and used GridSearchCV to find the optimal parameters.
+Applied regression techniques to dermine medical insurance costs for individuals.
 
 filename | description
 ------------ | -------------
