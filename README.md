@@ -35,14 +35,6 @@ filename | description
 ------------ | -------------
 [InsuranceCostPredictions.ipynb](https://github.com/Alicja96/Insurance-Cost-Predictions/blob/master/InsuranceCostPredictions.ipynb)| Exploratory data analysis and predictions of medical insurance costs with machine learning algorithms such as LinearRegression, PolynomialRegression, ElasticNet, RandomForestRegressor, DecisionTreeRegressor and hyperparameter tuning. 
 
-## [Baltimore Crime Analysis :police_car:](https://github.com/Alicja96/Baltimore-Crime-Analysis)
-
-Tools: plotly, pandas, matplotlib, seaborn
-
-filename | description
------------- | -------------
-[Baltimore_Crime_Analysis.ipynb](https://github.com/Alicja96/Baltimore-Crime-Analysis/blob/master/Baltimore_Crime_Analysis.ipynb)| Exploratory Data Analysis of Baltimore Crime Data from 2012-2016.
-
 
 ## [Cryptocurrency Dashboard](https://github.com/Alicja96/Cryptocurrency-Dashboard) :moneybag:
 
@@ -52,5 +44,13 @@ filename | description
 ------------ | -------------
 [crypto_dashboard.py](https://github.com/Alicja96/Cryptocurrency-Dashboard/blob/master/crypto_dashboard.py)| Dashboard for monitoring and comparing historical prices of top 50 cryptocurrencies that uses CryptoCompare API.
 
-<img src="https://i.gyazo.com/64a7a68f1ac63f3163b47dceb2b715d5.gif"  width=900, height = 400 />
+
+
+## [Baltimore Crime Analysis :police_car:](https://github.com/Alicja96/Baltimore-Crime-Analysis)
+
+Tools: plotly, pandas, matplotlib, seaborn
+
+filename | description
+------------ | -------------
+[Baltimore_Crime_Analysis.ipynb](https://github.com/Alicja96/Baltimore-Crime-Analysis/blob/master/Baltimore_Crime_Analysis.ipynb)| Exploratory Data Analysis of Baltimore Crime Data from 2012-2016.
 
