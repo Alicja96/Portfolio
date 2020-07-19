@@ -52,5 +52,5 @@ filename | description
 ------------ | -------------
 [crypto_dashboard.py](https://github.com/Alicja96/Cryptocurrency-Dashboard/blob/master/crypto_dashboard.py)| Dashboard for monitoring and comparing historical prices of top 50 cryptocurrencies that uses CryptoCompare API.
 
-<img src="https://i.gyazo.com/2d7e8df2c6ed5fc10b15966d514ec341.gif" width=900, height = 400 />
+<img src="https://i.gyazo.com/64a7a68f1ac63f3163b47dceb2b715d5.gif"  width=900, height = 400 />
 
